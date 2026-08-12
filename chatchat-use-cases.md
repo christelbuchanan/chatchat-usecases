@@ -1,15 +1,15 @@
 # The ChatChat use-case playbook
 
 > Want a shorter, action-oriented starting point? Try
-> [10 plays for lifemaxxing with ChatChat](chatchat-lifemaxxing-plays.md).
+> [10 plays for life-maxxing with ChatChat](chatchat-lifemaxxing-plays.md).
 
 ChatChat is most useful when it is more than a chat window. Give an agent a durable
 Living Brain, connect the services where work already happens, let proactive workflows
 notice meaningful changes, and use the managed shell for the computational last mile.
 
 The ideas below are recipes, not promises that every account has every connector or
-permission. Keep consequential actions, like sending, publishing, paying, deleting, or
-changing production systems behind explicit human approval.
+permission. Keep consequential actions—sending, publishing, paying, deleting, or
+changing production systems—behind explicit human approval.
 
 ## The compounding loop
 
